@@ -2,7 +2,7 @@
 
 ### Меня зовут Евгений, и я Java разработчик
 
-☎️ Связаться со мной: [Telegram] (https://t.me/eapashkov)
+☎️ Связаться со мной: [Telegram](https://t.me/eapashkov)
 
 <!--
 **EAPashkovJ/EAPashkovJ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
