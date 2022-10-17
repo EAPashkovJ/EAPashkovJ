@@ -1,6 +1,6 @@
 ### Привет! 🔆
 
-### - 🌱 I’m currently learning Java
+### 🌱 I’m currently learning Java
 
 
 ☎️ Связаться со мной: [Telegram](https://t.me/eapashkov), [Почта](eapashkov@gmail.com), [LinkedIn](https://www.linkedin.com/in/eapashkov/) 
