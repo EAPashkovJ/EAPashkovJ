@@ -1,6 +1,6 @@
-### Здравствуй! 🔆
+### Привет! 🔆
 
-### Меня зовут Евгений, и я Java разработчик
+### - 🌱 I’m currently learning Java
 
 
 ☎️ Связаться со мной: [Telegram](https://t.me/eapashkov), [Почта](eapashkov@gmail.com), [LinkedIn](https://www.linkedin.com/in/eapashkov/) 
